@@ -1,6 +1,7 @@
 # Notess
 
 <b>React-app</b> made to store users notes and built with ❤️
+
 ## Setup
 
   ##### Clone the repository
