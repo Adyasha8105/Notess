@@ -24,7 +24,7 @@ function Heading() {
             </div>
             <ul className="white purple-text text-darken-2 right hide-on-med-and-down">
               <li>
-                <a href="https://github.com/ishandeveloper/Notes-Keeper" className="purple-text text-darken-2">
+                <a href="https://github.com/Adyasha8105/Notess" className="purple-text text-darken-2">
                   <i className="material-icons">info</i>
                 </a>
               </li>
