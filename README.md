@@ -1,8 +1,5 @@
 # Notess
-React-app made to store users notes :)
-Built in <b>React.js</b> with ❤️
-#### View Live Demo
-  <pre><center><a href="https://keep.ishandeveloper.com/"><b>Notess</b></a></center></pre>
+<b>React-app</b> made to store users notes and built with ❤️
 
 ## Setup
 
