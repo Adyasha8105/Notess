@@ -1,36 +1,36 @@
 import React, {useState} from "react";
 
 function NewNote(props) {
-
+ 
   const [typing, settyping] = useState(false);
 
   const [textareaStyle, settextareaStyle] = React.useState({
     textAlign: "justfiy",
   });
-  const [content, setcontent] = useState('')
+  const [content, setcontent] = useState('') 
   const [title, settitle] = useState('');
   
-  function newnoteadded() {
-      {props.add(title,content)}
+  function newnoteadded() { 
+      props.add(title,content)
       settitle('');
       setcontent('');
   }
 
-  function textareaHeight(e) {
+  function textareaHeight(e) { 
     settextareaStyle({
       height: e.target.scrollHeight + "px",
       textAlign: "justfiy",
       maxHeight: "500px",
     });
   }
-  function titlechanged(e) {
+  function titlechanged(e) { 
       settitle(e.target.value);
   }
-  function contentchanged(e) {
+  function contentchanged(e) { 
     settyping(true);
     setcontent(e.target.value);
 }
-  return (
+  return ( 
     <div className="newnote">
       <div className="col s12 m6">
         <div className="card">

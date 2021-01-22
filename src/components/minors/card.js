@@ -37,7 +37,7 @@ function Card(props) {
                 marginRight: "5px",
               }}
               className="purple-text text-lighten-3"
-              href="#"
+              href="/#"
             >
               <i
                 onClick={taskDelete}
