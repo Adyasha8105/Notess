@@ -2,7 +2,7 @@
 
 Created a Google Keep clone and built with <b>React js</b>💜. Users can easily add, edit and remove notes in a simple and clean UI.
 
-<img align="center" width="50%" src="https://user-images.githubusercontent.com/54095539/105470134-2db0c300-5cbf-11eb-9029-4b5de7d4e8fe.PNG">
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/54095539/105470134-2db0c300-5cbf-11eb-9029-4b5de7d4e8fe.PNG">
 
 ## Setup
 
