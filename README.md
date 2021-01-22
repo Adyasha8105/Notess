@@ -1,4 +1,4 @@
-# Notess <img width="2%" src="https://user-images.githubusercontent.com/54095539/105467974-626f4b00-5cbc-11eb-9cbf-34bb1a71d3e2.png">
+# Notess <img width="3%" src="https://user-images.githubusercontent.com/54095539/105467974-626f4b00-5cbc-11eb-9cbf-34bb1a71d3e2.png">
 
 <b>React-app</b> made to store users notes and built with 💜 
 
