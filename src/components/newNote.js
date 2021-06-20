@@ -54,9 +54,9 @@ function NewNote(props) {
               ></textarea>
             </p>
           </div>
-          {typing?<a onClick={newnoteadded} className="btn-floating btn-large halfway-fab waves-effect waves-dark purple">
+          {typing ? <button onClick={newnoteadded} className="btn-floating btn-large halfway-fab waves-effect waves-dark purple">
             <i className="material-icons">add</i>
-          </a>:null}
+          </button> : null}
         </div>
       </div>
     </div>
